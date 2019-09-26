@@ -15,7 +15,7 @@ NAOMI: Sure.
 MEL: All right. The transcript starts now. Thank you again for doing this. I am super excited. We return to our PyPI story. And so I want to start with one of the questions I asked at the end of last time. Which is… What you said you were interested in looking at in the second round. And continuing to the third round. And so I’m gonna put in the transcript right now… Your answer to that question.
 
 > _Source(s): Naomi-1_
-
+>
 > NAOMI: I guess I would be interested, maybe, in knowing a bit more about the issues that they were specifically trying to address... For example... we were having this problem because of overcapacity, X times a week. Or something like that.
 >
 > [and]what level of success have they had, then, in specifically addressing those particular things? So, you know, now we can do all of this, zero latency, and whatever....
