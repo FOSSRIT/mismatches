@@ -1,10 +1,10 @@
 # Copyright transfer statement
 
-Copyright transfer statement: MEL CHUA hereby irrevocably transfers and assigns to TERRI ODA in perpetuity, all right (whether now known or hereinafter invented), title, and interest, throughout the world, including any copyrights and renewals or extensions thereto, in the attached transcript of the interview recorded between us on AUGUST 21, 2019 in A LIVE-TRANSCRIBED PHONE CALL.
+MEL CHUA hereby irrevocably transfers and assigns to TERRI ODA in perpetuity, all right (whether now known or hereinafter invented), title, and interest, throughout the world, including any copyrights and renewals or extensions thereto, in the attached transcript of the interview recorded between us on AUGUST 21, 2019 in A LIVE-TRANSCRIBED PHONE CALL.
 
 # License
 
-License: I, Terri Oda, hereby release this work under the following open license: http://creativecommons.org/licenses/by/3.0. Anyone is free to share and remix the work as long as they cite it. I consent to the open publication of this work using my name. 
+I, Terri Oda, hereby release this work under the following open license: http://creativecommons.org/licenses/by/3.0. Anyone is free to share and remix the work as long as they cite it. I consent to the open publication of this work using my name. 
 
 # BEGIN TRANSCRIPT
 
