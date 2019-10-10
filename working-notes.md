@@ -1,0 +1,74 @@
+_These notes are rough, raw braindumps; they may not be readable by others yet, and that's okay. All part of trying to do this work in the open as much as possible._
+
+Information is available, not necessarily seen
+Participation, usage, and roles (both upstream and downstream) are often self-initiated and not clearly recorded
+
+What's sustainability:
+- financial / operating costs
+  - servers, etc.
+  - people time
+- bus factor; are there enough contributors, can people step away?
+  - burnout vs guilt
+- is there interest in it existing? (incl. but not limited to users)
+- visibility
+- people being involved, new people coming in, diverse types of people
+
+What's well-maintained
+- keeping up with responses to incoming issues in a timely manner
+- processes/styles/etc. up-to-date with modern standards ("what a modern contributor would expect")
+- test coverage
+- documentation
+- issue tracker
+- automated testing
+- specifications for what it should do
+- ability for people with basic skills to contribute
+
+Dynamics:
+- "nobody stopped me"
+
+Employer time:
+- tension re: corporate control
+- pays for time spent, but "would do anyway, just slower and at cost to family"
+- FOSS people often filter potential employers by whether they'll allow and not constrain FOSS work
+- project management is the hard part to find!
+
+Upstream:
+- predates web frameworks
+- backstory: previous python.org project failure taught PSF the need for project management
+- "in flight, but never really got over the finish line"
+- got server space donated; would be HUGELY expensive if not
+- side project that became production
+- "mudball architecture"
+- this is terrible, let's start from scratch
+- don't know what people are using how; what can we break, what shouldn't we?
+- communications: you can try everything, but some people will still ignore it
+- big win: people can contribute now, fed into the energy ("stickers")
+- maybe we should turn it off, that's how we get people to pay attention
+
+Downstream:
+- "there's info out there, I just never kept up, it's too much"
+- heard through twitter, friends, etc. "but I guess there's the blog and mailing list also"
+- people-to-people connections important
+- assumed it was magic
+- "how did i not see that mess?"
+- don't need to know, don't want to know; it's plumbing
+- always worked, never thought about it (didn't evaluate it the way we would evaluate a library)
+- "i feel weird that my company never knew python needed help"
+- tension between "oh yeah, of course!" and "it's still magic"
+- "Donald, the hero of PyPI - wait, needs a job?"
+-  we could have done the technical transition any time, it's the communication and financial part that was hard
+- "breaking stuff on users" - infra upgrades are not like library upgrades because you have to decide when to switch the service over, whereas users decide when to transition between libraries
+
+FOSS culture:
+- itch-scraching
+- "it's fun!"
+- project management: less fun
+- we don't make people sign up, track, etc. - pros and cons
+
+PSF:
+- needed a way to handle money
+- needed to learn to hire project managers
+- needed a track record for applying for grants (wants a more open process later)
+- could run PyPI as a business, has decided not to
+- limited by international laws
+- management of donations, volunteer relationships, etc. takes up paid staff time
