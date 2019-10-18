@@ -74,7 +74,7 @@ MEL: So I’ll show you those one at a time. And let you respond to each of thos
 
 ERNEST: Understood.
 
-> _Source(s): early analysis notes_
+> _Source(s): notes-11-10-2019.md_
 > 
 > 1. Infrastructure is “magical plumbing.” FOSS infrastructure lets you look behind the curtain if you so choose; non-FOSS infrastructure likely does not.
 
@@ -106,7 +106,7 @@ So it is dramatically different between FOSS and non-FOSS. But I think it’s st
 
 MEL: Cool. So the second bit… So number two of five…
 
-> _Source(s): early analysis notes_
+> _Source(s): notes-11-10-2019.md_
 > 
 > 2. Infrastructure requires technical effort for operations (as well as development). FOSS infrastructure may begin as a pet project and then “accidentally” go into production; non-FOSS infrastructure is more likely to be deliberately planned with allocated resources and to have project management much earlier on.
 
@@ -118,7 +118,7 @@ But by the same token, I’ve seen a lot of -- in corporate settings, I’ve see
 
 MEL: Huh. Okay. So number three of five…
 
-> _Source(s): early analysis notes_
+> _Source(s): notes-11-10-2019.md_
 > 
 > 3. Infrastructure requires development capacity (people-time). FOSS infrastructure is likely to have some or all of this development capacity come from self-directed volunteers, but that effort is also more likely to fade out during the “last mile.” Non-FOSS infrastructure is more likely to have its development resources known, managed, and allocated in advance.
  
@@ -186,7 +186,7 @@ So whereas the sustainability of a software project… Certainly has a fiscal co
 
 MEL: Okay. Yeah. That’s very helpful. Let’s see. So we’re on four of five. If we spend a lot of time talking about this, that is also totally okay. I can send you: Here is everyone’s definition of sustainability and being well maintained separately, if need be. But this is great stuff. This is the next one.
 
-> _Source(s): early analysis notes_
+> _Source(s): notes-11-10-2019.md_
 > 
 > 4. Infrastructure requires bureaucratic/organizational work. FOSS infrastructure is likely to have this set up late, during the “last mile” or the “sticking point.” Non-FOSS infrastructure is more likely to have this infrastructure (legal, organizational, financial, managerial, marketing, etc.) be set up early.
 
@@ -214,7 +214,7 @@ A small project might be able to run for free in some hosting platform that offe
 
 MEL: Okay. So the last one… I’ll just put it out here.
 
-> _Source(s): early analysis notes_
+> _Source(s): notes-11-10-2019.md_
 > 
 > 5. Infrastructure user data and usage patterns are important for determining future resource needs. FOSS infrastructure maintainers are less likely than non-FOSS infrastructure ones to have complete and reliable access to that data because of intentional cultural choices to prioritize user freedom and access over it.
 
@@ -260,7 +260,7 @@ ERNEST: No. I think as far as how you differentiate the terms “sustainability�
 
 MEL: Cool! So now I’m gonna show you the sort of aggregated version of what are people’s definitions of “well maintained”, and then, if we have time, “sustainable”. So this is the “well maintained” list.
 
-> _Source(s): early analysis notes_
+> _Source(s): notes-11-10-2019.md_
 > 
 > 1. There are people there to triage and address issues that come up in a timely manner.
 > 1. There are people to make sure a project is keeping up with changes in the ecosystem (ex: maintaining compatibility when dependencies are updated, etc.)
@@ -302,7 +302,7 @@ MEL: Okay. So this is the aggregated list across all the interviews. We’re sti
 
 Oh, look. We have just enough time for this. That was “well maintained.” This is “sustainable.” The sustainable one was much more all over the map.
 
-> _Source(s): early analysis notes_
+> _Source(s): notes-11-10-2019.md_
 > 
 > 1. There are resources (donated services or money to pay directly) for ongoing operating costs, including computing resources, people for operations, people for development, and people for “management.”
 > 1. Will the resources needed for the project continue to be provided in the future?
