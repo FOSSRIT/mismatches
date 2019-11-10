@@ -112,3 +112,13 @@ See #1 really.
 _How do the narratives collected aroundPyPI illustrate this?_
 
 The shows an effort to move from one that was initially not well maintained and sustainable to one that is moving closer to meeting the conceptions and expectations of a well maintained and sustainable project, due, in part to some forms of #corpsupport.
+
+# Discussion notes
+
+- Infrastructure availability is time-invariant
+- Infrastructure bias is only systemic (though it reflects the assumptions of human creators)
+- Infrastructure systems cannot (themselves) be corrupted, though their human creators certainly can be.
+
+Engineering culture bias: if you’re a good engineer, you can fix it yourself without help - and thus do not need personal connections (“they’re for wimps.”) The #doocracy nature of FOSS culture allows this to be perpetuated.
+
+In FOSS (and engineering) culture, #trust is given to things and/or to other engineers, not to nontechnical contributors. Personal connections are framed as a vulnerability; #trust in individuals is framed as a vulnerability (that’s the entire idea behind #busfactor).
