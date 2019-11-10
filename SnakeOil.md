@@ -4,6 +4,45 @@ This is an exercise we did during our analysis retreat based on the game "Snake 
 
 Shauna
 
+# 1.  What implicit/explicit contracts/expectations do people have about FOSS digital infrastructure?
+
+Implicit, downstream:
+
+* that is "just works" like #magic without having to think about it (no obligation to keep up/not bothered by updates)
+* that if you *do* want to understand it you can because it is #transparent
+* that if you have problems with it, the people who work on it can and will help you solve your problems
+* that the needs of the project are primarily technical and therefore the primary way you could give back to the project is through engineering
+* that the creators of the project will not make major changes that affect me without warning me
+* I deserve access to this infrastructure without payment or other contribution to the project
+
+Implicit, upstream:
+
+* that if something goes wrong with the project, it's my responsibility to fix it (#burnout #emotions)
+* that because I'm working on it, I decide what happens with it (#doocracy #authority)
+* that, at the same time, I shouldn't decide to do something that will disrupt the experience of users
+* that if I'm scarce on resources, I should prioritize engineering over community, financial, legal, etc. (or, less consciously, this is what I know how to do so I will focus on it.)
+* users shouldn't have to pay or otherwise contribute to the project in order to use it
+
+Explicit: [skipping for now, don't have a lot of insight into common types of FOSS legal contracts]
+
+# 1a.  What are the tensions in expectations?
+
+* Downstreamers expect infrastructure to "just work" but when upstreamers can't fix problems they can't ask for help from downstreamers without violating that expectation.  Often, because communication between upstream and downstream has assumed no communication it's very hard to open lines of communication.
+
+* Upstreamers often focus on engineering needs and because it's a doocracy, they have the implicit authority to determine what gets asked for/worked on.  Downstreamers/outsiders may be able to contribute vital non-engineering things but won't because upstreamers don't ask them or create space for them to do so.
+
+* Some downstreamers expect help and problem-solving from upstreamers beyond what the upstreamers can provide, which leads to anger from downstreamers and guilt from upstreamers.  Because of the shared belief that downstreamers don't owe anything to the project, it's easy for demands from downstream to overwhelm capacity of upstream to handle them.
+
+# 2.  What are conceptions of a well-maintained/sustainable FDI?
+
+Well-maintained projects have: responsive maintainers (meets downstream expectation about getting help); high bus factor (eases impact of upstream expectation that if something goes wrong it's my responsibility fo fix it); diverse community (avoids downstream expectation that only technical contributions are needed; avoids upstream expectation that maintainers should focus on engineering because a diverse group will have diverse skills to contribute).
+
+# 3.  How does PyPI illustrate #1 and #2?
+
+In interviews, people talked about not realizing PyPI was having difficulties.  PyPI maintainers more or less met the downstream expectation that it "just works".
+
+Interviewees talked about governance (Nick), project management (Sumana), design (Nicole), and other non-engineering ways of contributing to the project and how that made them more well-maintained and sustainable.
+
 Sumana
 
 _On implicit and explicit contracts/expectations:_
