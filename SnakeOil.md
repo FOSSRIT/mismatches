@@ -66,8 +66,6 @@ _On how PyPI illustrates those:_
 
 # Mel
 
-# Mel
-
 _1. What explicit/explicit contracts/expectations might there be there around FOSS digital infrastructure?_
 _1a. What might some tensions be among those contracts and expectations?_
 
@@ -97,10 +95,20 @@ See the parenthetical statements at the ends of my responses for item 1 here.
 
 # SJ
 
-1.Contracts/Expectations
+_1.Contracts/Expectations_
+
 #speedexpectations, #communitymanagement,#linesofcommunications,#trust,#fossroles,#contribtypes, #tooling
+
 In infrastructure there's an expectation of rapid turnaround of issues and little or no downtime.  Within a theoretical well-managed community this is facilitated by clearly defined roles, contribution/contributor type, trust and clear lines of communication.  A less well managed community might result in things falling to a small group or a single point of failure #busfactor #authority #do-ocracy. Depending on the project good tooling and piplines may be able to be developed to support this.  Corporate support of an unrestricted gift can be usefull here, whether that gift is of an internal employees time or cash to an external foundation to support sustainability
-1a.Tensions
+
+_1a.Tensions_
+
 How much of the mainteneance and upgrading is organic/structured, do the contributions and the contributors end up bing long term /short term, how much of the transparencyinherent in the community becomes an obligation to stay on top of things and how does it end up as a do-ocracy vs. and inclusive community of contributors?
-What are a conceptions of a well maintained and sustainable FOSS program.  See #1 really.
-How do the narratives collected aroundPyPI illustrate this?  The shows an effort to move from one that was initially not well maintained and sustainable to one that is moving closer to meeting the conceptions and expectations of a well maintained and sustainable project, due, in part to some forms of #corpsupport.
+
+_What are a conceptions of a well maintained and sustainable FOSS program._
+
+See #1 really.
+
+_How do the narratives collected aroundPyPI illustrate this?_
+
+The shows an effort to move from one that was initially not well maintained and sustainable to one that is moving closer to meeting the conceptions and expectations of a well maintained and sustainable project, due, in part to some forms of #corpsupport.
