@@ -6,33 +6,25 @@ Shauna
 
 Sumana
 
-# Mel
+_On implicit and explicit contracts/expectations:_
 
-_1. What explicit/explicit contracts/expectations might there be there around FOSS digital infrastructure?_
-_1a. What might some tensions be among those contracts and expectations?_
+* If there is a specific person or organization who has earned #trust and whose support of the infrastructure is considered #magic, they need to speak up about #burnout or other problems before other people/organizations will step up to help. Help is pull, not push.
+* It is natural and #evolution for people to #burnout, for #authority to fall via #doocracy to certain #contribtypes, for #speedexpectations to be variable in the absence of #contracts, and for users to only be able to expect the kinds of work and progress that #selfdirected #motivation from certain #contribtypes (per usual #whatisfoss fossroles) will drive.
+* We have #emotions around what we expect, and we want to protect ourselves from others' #emotions, serving our duty but not being overwhelmed with their perceptions of their needs/desires, to prevent #burnout.
 
-1. FOSS digital infrastructure is and will continue to be "FOSS" in both a legal and cultural sense. The cultural sense varies according to whatever an individual's definition of #whatisfoss. This may include assumptions about what ideal versions of #fossroles, #doocracy, #corpsupport, #corpdirection, #contribtypes, #externalobligations, etc. are in relation to FOSS projects. How important it is for a given project "to be FOSS" depends on both what requirements a person has for something to be a "real FOSS project" (i.e. is it just the licensing? Is it particular governance structures? The presence or absence of specific kinds of corporate relationships?) and the priorization and onerousness of fulfilling those requirements - i.e. these requirements don't "cost" more to implement than their importance dictates. (For PyPI: Donald seems to have made many decisions because he believes that is the "FOSS way" of doing things. Similarly, Jackie talks about privacy tradeoffs being made because it's a "FOSS value," and Nick works within the network of communications and relationships that he sees as part of a "FOSS community." Terri talks about refusing jobs that don't fulfill certain kinds of requirements for being "FOSS work friendly" -- whatever people's conceptions of FOSS are, they can be important enough to prevent folks from making certain decisions or tradeoffs because the FOSS culture of Python's community, and PyPI by extension, is important to preserve.)
+_On conceptions of well-maintained and sustainable FOSS digital infrastructure:_
 
-1. FOSS digital infrastructure, like all infrastructure, will be #magic to users. Specifically, users can #trust that a system will continue to run regardless of whether they pay attention to #linesofcommunication or not; #communitymanagement is an opt-in activity from the point of view of users. (For PyPI: Even highly-informed users didn't think about PyPI sustainability - that knowledge didn't activate because they assumed it would be taken care of.)
+* The #speedexpectations are met, not just when/if the user assessing sustainability/maintainedness needs something, but in the recent past, when the user uses #transparency and #tooling such as GitHub to check on recent commits and bug replies.
+* There exist #contracts -- explicit financial ones to ensure labor for upkeep -- or the implicit contract of #magic in that it works reliably and thus creates expectations of reliability.
+* Even without #personalconnections, the infrastructure does what you need it to do.
+* #Corpdirection is not a driver of the product direction.
 
-1. #Corpdirection and #financialinfrastructure can only accelerate or maintain FOSS digital infrastructure in a "community driven" direction it was already going in; it should not change that direction. (For PyPI: Discussions about hiring and funding.)
+_On how PyPI illustrates those:_
 
-1. Users can be exempt from #communitymanagement outreach via #linesofcommunication for FOSS digital infrastructure. (For PyPI: Challenges maintainers had in getting in contact with users.)
+* The #financialinfrastructure of the PSF and the #contracts started with the Mozilla award influenced people's perception of the maintainability and sustainability of PyPI.
+* While #selfdirected #doocracy #motivation #whatisfoss labor led to the creation and initial work on Warehouse, and while sponsors gave PyPI in-kind donations, the donation of money via the MOSS award #contracts #financialinfrastructure is what made the phase change possible to increase PyPI's #busfactor.
+* Our #personalconnections to Donald, et alia affect, even determine, the #linesofcommunication that cause us to understand whether PyPI's #busfactor is adequate. (Tension: deep focus versus broad awareness.)
 
-1. Maintainers of FOSS digital infrastructure are beholden to even informal #contracts of expectations unless they are in dire danger of #burnout, regardless of #externalobligations or #emotions to the contrary. Maintainers are expected to have #motivation to do this sort of labor, because their #selfdirected decisions got them there in the first place. (For PyPI: Donald's stories about burnout in particular.)
-
-1. From a user point of view, FOSS digital infrastructure projects are already paying attention to their #busfactor and #tooling and #burnout - there is no need for users to attend to these things.
-
-1. Broadly speaking, users are not responsible for the sustainability of FOSS digital infrastructure; contributing in any way is a nice bonus, but not an expected civic duty.
-
-(I feel like I've written my responses above in ways that make possible tensions clear - imagine the opposite, and see how it is also pretty reasonable.)
-
-_2. What are various conceptions people might hold regarding what constitutes a well-maintained and sustainable FOSS digital infrastructure project?_
-
-See https://github.com/FOSSRIT/mismatches/blob/master/notes-2019-10-11.md, where I synthesized what participants said about this (I haven't yet thought about how items on that list might be reverse-engineered from expectations/social contracts, though.)
-
-_3. How does PyPI illustrate the above things, and how does it fit into the larger context of other FOSS digital infrastructure projects with respect to doing so?_
-
-See the parenthetical statements at the ends of my responses for item 1 here.
+Mel
 
 SJ
