@@ -2,9 +2,9 @@
 
 This is an exercise we did during our analysis retreat based on the game "Snake Oil" (https://boardgamegeek.com/boardgame/113289/snake-oil) where players have to make up products based on cards they have in their hands. Similarly, we tried to come up with (preliminary) answers to our research questions based on the materials and insights we had generated during the retreat.
 
-Shauna
+# Shauna
 
-# 1.  What implicit/explicit contracts/expectations do people have about FOSS digital infrastructure?
+## 1.  What implicit/explicit contracts/expectations do people have about FOSS digital infrastructure?
 
 Implicit, downstream:
 
@@ -25,7 +25,7 @@ Implicit, upstream:
 
 Explicit: [skipping for now, don't have a lot of insight into common types of FOSS legal contracts]
 
-# 1a.  What are the tensions in expectations?
+## 1a.  What are the tensions in expectations?
 
 * Downstreamers expect infrastructure to "just work" but when upstreamers can't fix problems they can't ask for help from downstreamers without violating that expectation.  Often, because communication between upstream and downstream has assumed no communication it's very hard to open lines of communication.
 
@@ -33,17 +33,17 @@ Explicit: [skipping for now, don't have a lot of insight into common types of FO
 
 * Some downstreamers expect help and problem-solving from upstreamers beyond what the upstreamers can provide, which leads to anger from downstreamers and guilt from upstreamers.  Because of the shared belief that downstreamers don't owe anything to the project, it's easy for demands from downstream to overwhelm capacity of upstream to handle them.
 
-# 2.  What are conceptions of a well-maintained/sustainable FDI?
+## 2.  What are conceptions of a well-maintained/sustainable FDI?
 
 Well-maintained projects have: responsive maintainers (meets downstream expectation about getting help); high bus factor (eases impact of upstream expectation that if something goes wrong it's my responsibility fo fix it); diverse community (avoids downstream expectation that only technical contributions are needed; avoids upstream expectation that maintainers should focus on engineering because a diverse group will have diverse skills to contribute).
 
-# 3.  How does PyPI illustrate #1 and #2?
+## 3.  How does PyPI illustrate #1 and #2?
 
 In interviews, people talked about not realizing PyPI was having difficulties.  PyPI maintainers more or less met the downstream expectation that it "just works".
 
 Interviewees talked about governance (Nick), project management (Sumana), design (Nicole), and other non-engineering ways of contributing to the project and how that made them more well-maintained and sustainable.
 
-Sumana
+# Sumana
 
 _On implicit and explicit contracts/expectations:_
 
@@ -64,7 +64,7 @@ _On how PyPI illustrates those:_
 * While #selfdirected #doocracy #motivation #whatisfoss labor led to the creation and initial work on Warehouse, and while sponsors gave PyPI in-kind donations, the donation of money via the MOSS award #contracts #financialinfrastructure is what made the phase change possible to increase PyPI's #busfactor.
 * Our #personalconnections to Donald, et alia affect, even determine, the #linesofcommunication that cause us to understand whether PyPI's #busfactor is adequate. (Tension: deep focus versus broad awareness.)
 
-Mel
+# Mel
 
 # SJ
 
