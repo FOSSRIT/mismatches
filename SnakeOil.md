@@ -122,3 +122,8 @@ The shows an effort to move from one that was initially not well maintained and 
 Engineering culture bias: if you’re a good engineer, you can fix it yourself without help - and thus do not need personal connections (“they’re for wimps.”) The #doocracy nature of FOSS culture allows this to be perpetuated.
 
 In FOSS (and engineering) culture, #trust is given to things and/or to other engineers, not to nontechnical contributors. Personal connections are framed as a vulnerability; #trust in individuals is framed as a vulnerability (that’s the entire idea behind #busfactor).
+
+# Possibly useful links
+- https://shaunagm.github.io/mismatches-comments/
+- https://opentechstrategies.com/files/pub/MZ+OTS_OS_Archetypes_report_ext_scr.pdf
+- https://github.com/liam-middlebrook/coefficient-of-fail/blob/master/callaway-coefficient-of-fail.md
