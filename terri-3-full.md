@@ -2,11 +2,11 @@
 
 I, MEL CHUA hereby irrevocably transfers and assigns to TERRI ODA in perpetuity, all right (whether now known or hereinafter invented), title, and interest, throughout the world, including any copyrights and renewals or extensions thereto, in the attached transcript of the interview recorded between us on OCTOBER 11, 2019 in A LIVE-TRANSCRIBED PHONE CALL.
 
-#License
+# License
 
 I, Terri Oda, hereby release this work under the following open license: http://creativecommons.org/licenses/by/3.0. Anyone is free to share and remix the work as long as they cite it. I consent to the open publication of this work using my name. 
 
-#BEGIN TRANSCRIPT
+# BEGIN TRANSCRIPT
 
 MEL: That works. It's good. And we've got plenty of time. So, no rush. Shall we start the official transcript at this point?
 
